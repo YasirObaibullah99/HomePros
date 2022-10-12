@@ -26,7 +26,7 @@ export const Footer = () => {
               <rect x="14" y="1" width="7" height="6" />
               <rect x="14" y="11" width="7" height="12" />
             </svg>
-            <span className="ml-2 text-xl font-bold tracking-wide text-violet-600 uppercase">
+            <span className="ml-2 text-xl font-bold tracking-wide text-blue-600 uppercase">
               HomeLand
             </span>
           </a>
@@ -41,7 +41,7 @@ export const Footer = () => {
           </div>
         </div>
         <div className="space-y-2 text-sm">
-          <p className="text-base font-bold tracking-wide text-violet-600">
+          <p className="text-base font-bold tracking-wide text-blue-600">
             Contacts
           </p>
           <div className="flex">
@@ -81,7 +81,7 @@ export const Footer = () => {
           </div> */}
         </div>
         <div>
-          <span className="text-base font-bold tracking-wide text-violet-600">
+          <span className="text-base font-bold tracking-wide text-blue-600">
             Social
           </span>
           <div className="flex items-center mt-1 space-x-3">
